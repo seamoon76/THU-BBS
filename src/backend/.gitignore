@@ -1,0 +1,7 @@
+*.db
+__pycache__
+sqlite/*
+resource
+nohup.out
+*.exe
+src/init_parameters.py

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_nav_home"
+        android:icon="@drawable/home"
+        android:title="首页"
+        android:visible="true"
+        />
+
+    <item
+        android:id="@+id/menu_nav_topics"
+        android:icon="@drawable/topics"
+        android:title="话题"
+        android:visible="true"
+        />
+    <item
+        android:id="@+id/menu_nav_introduction"
+        android:icon="@drawable/intro"
+        android:title="通知"
+        android:visible="true"
+        />
+
+    <item
+        android:id="@+id/menu_nav_profile"
+        android:icon="@drawable/profile"
+        android:title="我的"
+        android:visible="true"
+        />
+</menu>
